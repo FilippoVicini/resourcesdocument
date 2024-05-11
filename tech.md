@@ -17,9 +17,9 @@
 - [codeabbey](https://www.codeabbey.com/)
   
 ### Tech interview
-[Exercism](notion://www.notion.so/exercism.org) Best exercise repo
-[neetcode](notion://www.notion.so/neetcode.io) Tech interview neat prep
-[grind75](https://www.techinterviewhandbook.org/grind75) Tech interview neat prep
+- [Exercism](notion://www.notion.so/exercism.org) Best exercise repo
+- [neetcode](notion://www.notion.so/neetcode.io) Tech interview neat prep
+- [grind75](https://www.techinterviewhandbook.org/grind75) Tech interview neat prep
 
 ### Books
 [HeadFirstJava](https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771) Best Java Book
