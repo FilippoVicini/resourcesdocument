@@ -1,5 +1,5 @@
 <h1 align="center">Resouces document</h1>
-<h3 align="center">Hi 👋, I'm ElKanguroVolante</h3>
+<h3 align="center">Grouping everything in 1 place</h3>
 
 <h3 >Why?</h3>
 During my whole life I have always struggled to find the correct resources to learning specific topics. We live in the best moment for man kind with all information available on the interenet for free! The only issue is finding this information as there is also lots of shit on the internet.
@@ -29,5 +29,5 @@ Let's group all the internet best content in 1 Place! And make top quality learn
 
 Have any specific question don't hesitate to contact me: filippo.vicini2@gmail.com
 
-With Love 
+With Love ❤️
 Filippo
