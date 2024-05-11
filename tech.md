@@ -4,7 +4,9 @@
 
 ## Computer Science
 ### Algorithms
-  - [MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+  - [MIT Lectures](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+  - [Book]([https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf))
+  - 
 ### Operating Systems 
  - [osdev](https://wiki.osdev.org/Main_Page)
  - [OSENGINEERING](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/pages/syllabus/)
@@ -21,8 +23,11 @@
 - [neetcode](notion://www.notion.so/neetcode.io) Tech interview neat prep
 - [grind75](https://www.techinterviewhandbook.org/grind75) Tech interview neat prep
 
-### Books
-[HeadFirstJava](https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771) Best Java Book
+### Java
+- [HeadFirstJava](https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771) Best Java Book
+
+### C/C++
+
 
 ### General 
 - [LibroOS](https://il-libro-open-source.github.io/)
