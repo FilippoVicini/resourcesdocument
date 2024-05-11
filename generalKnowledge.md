@@ -1,6 +1,6 @@
 # General Knowledge
-### Blogs
-
+## Blogs
+#### General
 - [natelisonbooks](https://www.nateliason.com/notes)
 - [Incidental comics](http://www.incidentalcomics.com/)
 - [Moretothat](https://moretothat.com/)
@@ -22,8 +22,7 @@
 - [calnewport](http://calnewport.com/blog/)
 - [thoughtcatalog](https://thoughtcatalog.com/)
 
-### Essentials
-
+#### Tech
 - [craftzdog](https://www.craftz.dog/) Tech related content
 - [paulgrahm](notion://www.notion.so/paulgraham.com/) If you don't know it you can stop reading this now and binge read paul grahm
 - [datagenetics](http://datagenetics.com/blog.html) math puzzels
@@ -33,4 +32,8 @@
 - [jeff vogel](https://www.spiderwebsoftware.com/misc/jvogel.html)
 - [isoldideglialtri](https://isoldideglialtri.com/) ita
 
+
+## Youtube channels 
+
+## Books
 ---
