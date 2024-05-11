@@ -23,10 +23,17 @@
 
 - [CodeWars](https://www.codewars.com/) Fun way to learn coding
 - [codeabbey](https://www.codeabbey.com/)
--
+  
+### Tech interview
+[Exercism](notion://www.notion.so/exercism.org) Best exercise repo
+[neetcode](notion://www.notion.so/neetcode.io) Tech interview neat prep
+[grind75](https://www.techinterviewhandbook.org/grind75) Tech interview neat prep
+
+### Books
+[HeadFirstJava](https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771) Great Java Book
+
 
 ## Math
-
 - [Paul online notes](https://tutorial.math.lamar.edu/) Great math notes
 - [Real analysis](https://www.jirka.org/ra/)
 - [math](https://www.jirka.org/ra/)[Algebra](https://open.math.uwaterloo.ca/)
@@ -34,6 +41,7 @@
 - [Tons of exercises](https://archive.org/details/berkeleyproblemsinmathematics1/mode/2up)[Math](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
 - [RoadMap](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
 
+## Software Engineering
 ---
 
 
