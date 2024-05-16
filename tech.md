@@ -47,7 +47,8 @@
 #### NextJS
 
 ## Quant
-### Practice- https://mathsprint-7f879.web.app/
+### Practice
+- https://mathsprint-7f879.web.app/
 - https://arithmetic.zetamac.com/
 - https://worldmentalcalculation.com/learning-training/
 - https://rfqjobs.com/practice/math/
