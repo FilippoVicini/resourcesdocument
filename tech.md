@@ -45,6 +45,16 @@
 
 ## Software Engineering
 #### NextJS
----
+
+## Quant
+### Practice- https://mathsprint-7f879.web.app/
+- https://arithmetic.zetamac.com/
+- https://worldmentalcalculation.com/learning-training/
+- https://rfqjobs.com/practice/math/
+- [https://openquant.co](https://openquant.co/)
+- https://www.youtube.com/playlist?list=PLADLdjl79_mhdmhdxA1Gk8sklGEWJkEKq
+- https://mathtrainer.ai/
+- [https://brainstellar.com](https://brainstellar.com/)
+- https://www.reddit.com/r/quant/wiki/index/
 
 
